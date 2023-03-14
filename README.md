@@ -1,2 +1,1 @@
-# Python_Programming-
-Details of Python Programing tricks and concept
+# Assignment_pyhton.pwskils
